@@ -11,11 +11,11 @@
 
 ## Summer Internship 2020
 
-- Read the guides on Github
+- Read the [Github guides](https://guides.github.com/)
 - Made this webpage
 - Installed Ubuntu 20.04 on WSL
-- Read up on using Markdown to make a webpage
-- Read up on the Resource Workspace Data Organization documents
+- Read up on using [Markdown](https://www.markdownguide.org/basic-syntax/) to make a webpage
+- Read up on the [Resource Workspace Data Organization documents](https://researchworkspace.com/help/Overview.html)
 
 
 ## About Me
