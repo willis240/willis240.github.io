@@ -4,19 +4,18 @@
 #### Making a personal webpage 
 
 **In Progress:**
-- Format all details to be more appealing to a reader's eyes
+- Updating the website with new things I've done/learned
 
 **Needs Done:**
 
 
-### Another Project's Name
-#### Another Project's subtitle
+## Summer Internship 2020
 
-**In Progress:**
-- Come up with project idea
+- Read the guides on Github
+- Made this webpage
+- Installed Ubuntu 20.04 on WSL
+- Read up on using Markdown to make a webpage
 
-**Needs Done:**
-- Work on the project
 
 ## About Me
 
