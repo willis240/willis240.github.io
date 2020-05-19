@@ -14,6 +14,7 @@
 - Read the [Github guides](https://guides.github.com/)
 - Made this webpage
 - Installed Ubuntu 20.04 on WSL
+- Read an article on becoming a [Command-Line Ninja](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1)
 - Read up on using [Markdown](https://www.markdownguide.org/basic-syntax/) to make a webpage
 - Read up on the [Resource Workspace Data Organization documents](https://researchworkspace.com/help/Overview.html)
 
