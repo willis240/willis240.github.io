@@ -15,6 +15,7 @@
 - Made this webpage
 - Installed Ubuntu 20.04 on WSL
 - Read up on using Markdown to make a webpage
+- Read up on the Resource Workspace Data Organization documents
 
 
 ## About Me
