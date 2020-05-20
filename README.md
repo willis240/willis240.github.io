@@ -18,6 +18,8 @@
 - Read up on using [Markdown](https://www.markdownguide.org/basic-syntax/) to make a webpage
 - Read up on the [Resource Workspace Data Organization documents](https://researchworkspace.com/help/Overview.html)
 - Watched and participated in a Python tutorial
+- Researched differences between [backups and archives](https://www.networkworld.com/article/3285652/backup-vs-archive-why-its-important-to-know-the-difference.html)
+- Researched differences between [real time, near-real time, and batch](https://blog.syncsort.com/2015/11/big-data/the-difference-between-real-time-near-real-time-and-batch-processing-in-big-data/)
 
 
 ## About Me
