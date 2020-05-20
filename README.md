@@ -17,6 +17,7 @@
 - Read an article on becoming a [Command-Line Ninja](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1)
 - Read up on using [Markdown](https://www.markdownguide.org/basic-syntax/) to make a webpage
 - Read up on the [Resource Workspace Data Organization documents](https://researchworkspace.com/help/Overview.html)
+- Watched and participated in a Python tutorial
 
 
 ## About Me
