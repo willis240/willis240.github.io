@@ -22,6 +22,7 @@
 - Researched differences between [real time, near-real time, and batch](https://blog.syncsort.com/2015/11/big-data/the-difference-between-real-time-near-real-time-and-batch-processing-in-big-data/)
 - Went through a [tutorial about the Linux command line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 - Read an article on how [IoT and Grafana are affecting rural Africa](https://grafana.com/blog/2019/05/01/how-iot-and-grafana-are-enabling-electrification-across-rural-africa/)
+- Went through a [more in-depth Python tutorial](https://github.com/trekhleb/learn-python)
 
 
 ## About Me
