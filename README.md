@@ -11,13 +11,21 @@
 
 ## Summer Internship 2020
 
+#### May 18
+
 - Read the [Github guides](https://guides.github.com/)
 - Made this webpage
 - Installed Ubuntu 20.04 on WSL
+
+#### May 19
+
 - Read an article on becoming a [Command-Line Ninja](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1)
 - Read up on using [Markdown](https://www.markdownguide.org/basic-syntax/) to make a webpage
 - Read up on the [Resource Workspace Data Organization documents](https://researchworkspace.com/help/Overview.html)
 - Watched and participated in a Python tutorial
+
+#### May 20
+
 - Researched differences between [backups and archives](https://www.networkworld.com/article/3285652/backup-vs-archive-why-its-important-to-know-the-difference.html)
 - Researched differences between [real time, near-real time, and batch](https://blog.syncsort.com/2015/11/big-data/the-difference-between-real-time-near-real-time-and-batch-processing-in-big-data/)
 - Went through a [tutorial about the Linux command line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
