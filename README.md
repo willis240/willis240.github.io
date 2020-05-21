@@ -32,6 +32,10 @@
 - Read an article on how [IoT and Grafana are affecting rural Africa](https://grafana.com/blog/2019/05/01/how-iot-and-grafana-are-enabling-electrification-across-rural-africa/)
 - Went through a [more in-depth Python tutorial](https://github.com/trekhleb/learn-python)
 
+#### May 21
+
+- Finished going through the more in-depth Python tutorial
+- Got a development environment for Python setup in Ubuntu (I previously just had one in Windows)
 
 ## About Me
 
