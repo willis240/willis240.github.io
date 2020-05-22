@@ -36,6 +36,7 @@
 
 - Finished going through the more in-depth Python tutorial
 - Got a development environment for Python setup in Ubuntu (I previously just had one in Windows)
+- Wrote a Google Doc about goals for the summer
 
 ## About Me
 
