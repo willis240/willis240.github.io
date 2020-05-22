@@ -37,6 +37,7 @@
 - Finished going through the more in-depth Python tutorial
 - Got a development environment for Python setup in Ubuntu (I previously just had one in Windows)
 - Wrote a Google Doc about goals for the summer
+- Worked on some [Python katas](https://www.codewars.com/collections/easy-python-katas) to get my skills up
 
 ## About Me
 
