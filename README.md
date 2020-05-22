@@ -39,6 +39,10 @@
 - Wrote a Google Doc about goals for the summer
 - Worked on some [Python katas](https://www.codewars.com/collections/easy-python-katas) to get my skills up
 
+#### May 22
+
+- Worked on some more Python katas from the same site as yesterday
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
