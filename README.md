@@ -41,8 +41,8 @@
 
 #### May 22
 
-- Worked on some more Python katas from the same site as yesterday
-- Read through a [cheat sheet on commands for Linux bash](https://www.educative.io/blog/bash-shell-command-cheat-sheet) (as well as how to make aliases)
+- Completed several Python katas from the same site as yesterday
+- Read through a [cheat sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet) on commands for Linux bash (as well as how to make aliases)
 
 ## About Me
 
