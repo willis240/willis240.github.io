@@ -11,6 +11,8 @@
 
 ## Summer Internship 2020
 
+### Week 1
+
 #### May 18
 
 - Read the [Github guides](https://guides.github.com/)
@@ -43,6 +45,13 @@
 
 - Completed several Python katas from the same site as yesterday
 - Read through a [cheat sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet) on commands for Linux bash (as well as how to make aliases)
+
+### Week 2
+
+#### May 26
+
+- constructed raspberry pi box
+- set up raspberry pi
 
 ## About Me
 
