@@ -50,8 +50,9 @@
 
 #### May 26
 
-- Constructed raspberry pi box
-- Set up raspberry pi
+- Constructed the raspberry pi box
+- Set up the raspberry pi
+- Created small presentation for introducing me to ACEP
 
 ## About Me
 
