@@ -50,8 +50,8 @@
 
 #### May 26
 
-- constructed raspberry pi box
-- set up raspberry pi
+- Constructed raspberry pi box
+- Set up raspberry pi
 
 ## About Me
 
