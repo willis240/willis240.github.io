@@ -55,6 +55,10 @@
 - Created small presentation for introducing me to ACEP
 - Created short tutorial on constructing the top half of the Raspberry Pi box
 
+#### May 27
+
+- Read the [documentation](https://shelly.cloud/wp-content/uploads/2019/12/Shelly1PM-UserGuide-EN-web.pdf) on the Shelly Wifi Relay Switch with power metering
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
