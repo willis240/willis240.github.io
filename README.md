@@ -62,6 +62,10 @@
 - Read a [tutorial on Jupyter Notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - Installed Anaconda on Windows, but haven't successfully connected it to PyCharm yet
 
+#### May 28
+
+- Successfully connected Anaconda to PyCharm (Windows)
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
