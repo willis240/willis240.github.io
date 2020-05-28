@@ -65,6 +65,7 @@
 #### May 28
 
 - Successfully connected Anaconda to PyCharm (Windows)
+- Went through a large part of this [Python Pandas Tutorial](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 
 ## About Me
 
