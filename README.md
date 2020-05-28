@@ -59,6 +59,8 @@
 
 - Read the [documentation](https://shelly.cloud/wp-content/uploads/2019/12/Shelly1PM-UserGuide-EN-web.pdf) on the Shelly Wifi Relay Switch with power metering
 - Tried to get pandas (a Python data analysis library) installed in Ubuntu, to no avail
+- Read a [tutorial on Jupyter Notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- Installed Anaconda on Windows, but haven't successfully connected it to PyCharm yet
 
 ## About Me
 
