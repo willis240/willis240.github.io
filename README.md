@@ -67,6 +67,11 @@
 - Successfully connected Anaconda to PyCharm (Windows)
 - Went through a large part of this [Python Pandas Tutorial](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 
+#### May 29
+
+- Fixed Ubuntu's "404 Not Found" error and installed Telegraf
+- Installed Influxdb
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
