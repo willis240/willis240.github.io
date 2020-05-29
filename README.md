@@ -69,7 +69,7 @@
 
 #### May 29
 
-- Fixed Ubuntu's "404 Not Found" error and installed Telegraf
+- Fixed Ubuntu's "404 Not Found" error when trying to install Telegraf and installed Telegraf
 - Installed Influxdb
 
 ## About Me
