@@ -71,6 +71,7 @@
 
 - Fixed Ubuntu's "404 Not Found" error when trying to install Telegraf and installed Telegraf
 - Installed Influxdb
+- Upgraded from Ubuntu 19.04 to 19.10 due to 19.04 no longer being supported
 
 ## About Me
 
