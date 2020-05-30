@@ -48,6 +48,10 @@
 
 ### Week 2
 
+#### May 25
+
+- MEMORIAL DAY
+
 #### May 26
 
 - Constructed the Raspberry Pi box
