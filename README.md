@@ -84,6 +84,7 @@
 
 - Tried out Python3's influxdb library for a bit
 - Installed Grafana
+- Attempted installing Docker in Ubuntu, but the repo was "not found"
 
 ## About Me
 
