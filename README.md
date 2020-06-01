@@ -78,6 +78,13 @@
 - Fixed Ubuntu's "404 Not Found" error in general by upgrading from Ubuntu 19.04 to 19.10
 - Installed pip and Python3's influxdb library
 
+### Week 3
+
+#### June 1
+
+- Tried out Python3's influxdb library for a bit
+- Installed Grafana
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
