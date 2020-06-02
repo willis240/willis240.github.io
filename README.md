@@ -89,7 +89,7 @@
 
 #### June 2
 
-- 
+- Got a TIG Stack set up and running flawlessly in Ubuntu
 
 ## About Me
 
