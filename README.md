@@ -85,11 +85,12 @@
 - Tried out Python3's influxdb library for a bit
 - Installed Grafana
 - Attempted installing Docker in Ubuntu, but the repo was "not found"
-- Worked on making slides explaining the binary magic in converting two 8-bit ints to a floating point number
+- Worked on making slides explaining the binary magic in converting two 8-bit int registers to a floating point number
 
 #### June 2
 
 - Got a TIG Stack set up and running flawlessly in Ubuntu
+- Finished slides explaining the binary magic
 
 ## About Me
 
