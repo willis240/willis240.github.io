@@ -94,6 +94,12 @@
 - Fixed Raspberry Pi's wifi issues by doing "sudo apt-get upgrade" over ethernet
 - Installed Telegraf, Influxdb, and Grafana on Raspberry Pi
 
+#### June 3
+
+- Uninstalled Influxdb and installed a newer version, then set it up
+- Uninstalled and reinstalled Grafana, now just having password issues
+- Read this [post about how computers manage time](https://dayne.broderson.org/2020/03/12/the_time_is_now.html)
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
