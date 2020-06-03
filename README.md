@@ -92,6 +92,7 @@
 - Got a TIG Stack set up and running flawlessly in Ubuntu
 - Finished slides explaining the binary magic
 - Fixed Raspberry Pi's wifi issues by doing "sudo apt-get upgrade" over ethernet
+- Installed Telegraf, Influxdb, and Grafana on Raspberry Pi
 
 ## About Me
 
