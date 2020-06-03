@@ -99,6 +99,7 @@
 - Uninstalled Influxdb and installed a newer version, then set it up
 - Uninstalled and reinstalled Grafana, now just having password issues
 - Read this [post about how computers manage time](https://dayne.broderson.org/2020/03/12/the_time_is_now.html)
+- Fixed password issues so the Raspberry Pi now has a working TIG Stack
 
 ## About Me
 
