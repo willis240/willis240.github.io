@@ -102,6 +102,7 @@
 #### June 4
 
 - Learned about MQTT through Dayne's interactive tutorial
+- Downloaded and used Adobe Acrobat to digitally sign document for going to the lab during COVID
 
 ## About Me
 
