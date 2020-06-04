@@ -4,10 +4,7 @@
 #### Making a personal webpage 
 
 **In Progress:**
-- Updating the website with new things I've done/learned
-
-**Needs Done:**
-
+- Updating the website with new things I've done/learned each day
 
 ## Summer Internship 2020
 
