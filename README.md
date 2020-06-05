@@ -104,12 +104,12 @@
 - Learned about MQTT through Dayne's interactive tutorial
 - Downloaded and used Adobe Acrobat to digitally sign document for going to the lab during COVID
 - Started this [tutorial on Node-RED](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/4), but realized I don't have any resistors and can't continue
+- Worked on getting ping, download, and upload speeds displayed in Grafana but came across "Network Error: Bad Gateway(502)"
 
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
 
-My favorite site for watching a good video is [Youtube](https://www.youtube.com/).
 
 ### Off-Topic
 All things considered, writing what needs to be added to the website on the website is very meta
