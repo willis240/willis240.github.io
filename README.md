@@ -103,6 +103,7 @@
 
 - Learned about MQTT through Dayne's interactive tutorial
 - Downloaded and used Adobe Acrobat to digitally sign document for going to the lab during COVID
+- Started this [tutorial on Node-RED](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/4), but realized I don't have any resistors and can't continue
 
 ## About Me
 
