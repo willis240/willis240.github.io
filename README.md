@@ -106,6 +106,10 @@
 - Started this [tutorial on Node-RED](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red/4), but realized I don't have any resistors and can't continue
 - Worked on getting ping, download, and upload speeds displayed in Grafana but came across "Network Error: Bad Gateway(502)"
 
+#### June 5
+
+- Fixed problems in Grafana, now have a graph displaying two data points successfully
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
