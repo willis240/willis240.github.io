@@ -109,6 +109,7 @@
 #### June 5
 
 - Fixed problems in Grafana, now have a graph displaying two data points successfully
+- Made a program that pings Google but does not yet send the data to the database
 
 ## About Me
 
