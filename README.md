@@ -108,8 +108,10 @@
 
 #### June 5
 
+- Read a [guide on MQTT](http://www.steves-internet-guide.com/mqtt/) to learn a bit more about it
 - Fixed problems in Grafana, now have a graph displaying two data points successfully
-- Made a program that pings Google but does not yet send the data to the database
+- Made a program that pings Google but does not yet send the data to the database; got some help from [this guide](https://www.influxdata.com/blog/getting-started-python-influxdb/)
+- Went to the University and got the weather station from Matt
 
 ## About Me
 
