@@ -118,6 +118,7 @@
 #### June 8
 
 - Struggled with internet troubles but eventually got it working
+- Went through this [tutorial on working with JSON files](https://realpython.com/python-json/)
 
 ## About Me
 
