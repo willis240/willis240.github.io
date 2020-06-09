@@ -113,6 +113,12 @@
 - Made a program that pings Google but does not yet send the data to the database; got some help from [this guide](https://www.influxdata.com/blog/getting-started-python-influxdb/)
 - Went to the University and got the weather station from Matt
 
+### Week 4
+
+#### June 8
+
+- Struggled with internet troubles but eventually got it working
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
