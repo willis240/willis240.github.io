@@ -125,6 +125,7 @@
 - Got google ping data to the influx database, though ping's output is a block of text for each ping
 - Went to the Lab with Matt and got the Shelly 1pm wired up successfully to an extension cord
 - Got ping's output text formatted so that the data put into the database is the average amount of time for the ping
+- Started the Jupyter Notebook for explaining how to ping google and put the data in an influx database (I used this [Jupyter Notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) for help)
 
 ## About Me
 
