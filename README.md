@@ -127,6 +127,11 @@
 - Got ping's output text formatted so that the data put into the database is the average amount of time for the ping
 - Started the Jupyter Notebook for explaining how to ping google and put the data in an influx database (I used this [Jupyter Notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) for help)
 
+#### June 10
+
+- Attempted fixing ping's output text formatting to get it to work consistently after finding out it doesn't always work
+- Worked on the Jupyter Notebook for the Pinging Google project
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
