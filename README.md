@@ -132,6 +132,17 @@
 - Attempted fixing ping's output text formatting to get it to work consistently after finding out it doesn't always work
 - Worked on the Jupyter Notebook for the Pinging Google project
 
+#### June 11
+
+- Worked on getting job training done; Specifically, I completed the following: 
+  - Behavior Based Safety
+  - Workplace Harassment Prevention
+  - Title IX Training
+  - Protection of Minors - Duty to report: Mandated Reporter
+  - Protection of Minors - Administrative Practices
+  - Employee Safety Orientation
+  - Office Safety
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
