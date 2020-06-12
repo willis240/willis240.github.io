@@ -143,6 +143,7 @@
   * Employee Safety Orientation
   * Office Safety
   * Slips, Trips, & Falls
+  * UAF Laboratory Safety
 
 ## About Me
 
