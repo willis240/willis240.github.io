@@ -144,6 +144,16 @@
   * Office Safety
   * Slips, Trips, & Falls
   * UAF Laboratory Safety
+  
+#### June 12
+
+* Continued working on getting job training done; This time, I completed:
+  * Hazard Communication
+  * UAF Laboratory Safety
+  * UAF Chemical Hygiene
+  * UAF Hazardous Waste Management
+  * Hazard Communication Plan
+  * Department Emergency Action Plan
 
 ## About Me
 
