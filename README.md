@@ -134,14 +134,14 @@
 
 #### June 11
 
-- Worked on getting job training done; Specifically, I completed the following: 
- - Behavior Based Safety
- - Workplace Harassment Prevention
- - Title IX Training
- - Protection of Minors - Duty to report: Mandated Reporter
- - Protection of Minors - Administrative Practices
- - Employee Safety Orientation
- - Office Safety
+* Worked on getting job training done; Specifically, I completed the following: 
+  * Behavior Based Safety
+  * Workplace Harassment Prevention
+  * Title IX Training
+  * Protection of Minors - Duty to report: Mandated Reporter
+  * Protection of Minors - Administrative Practices
+  * Employee Safety Orientation
+  * Office Safety
 
 ## About Me
 
