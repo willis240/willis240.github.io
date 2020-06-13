@@ -154,6 +154,7 @@
   * UAF Hazardous Waste Management
   * Hazard Communication Plan
   * Department Emergency Action Plan
+* Got the Google Pinging Project to correctly insert a float of the minimum time value into the influx database
 
 ## About Me
 
