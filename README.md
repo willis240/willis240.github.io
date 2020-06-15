@@ -163,6 +163,7 @@
 - Added floats for the average and maximum values of the Google Pinging Project
 - Edited the Jupyter Notebook to account for all of the changes made on Friday and today so far
 - Wrote a paragraph about my work at ACEP for use in ACEP This Week
+- Set up the Shelly Cloud app and updated the Shelly 1pm, but the "Advanced Developer Settings" tab never appeared so I couldn't set up MQTT
 
 ## About Me
 
