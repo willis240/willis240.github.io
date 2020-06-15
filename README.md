@@ -156,6 +156,13 @@
   * Department Emergency Action Plan
 * Got the Google Pinging Project to correctly insert a float of the minimum time value into the influx database
 
+### Week 5
+
+#### June 15
+
+- Added floats for the average and maximum values of the Google Pinging Project
+- Edited the Jupyter Notebook to account for all of the changes made on Friday and today so far
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
