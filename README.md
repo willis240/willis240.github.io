@@ -164,7 +164,13 @@
 - Edited the Jupyter Notebook to account for all of the changes made on Friday and today so far
 - Wrote a paragraph about my work at ACEP for use in ACEP This Week
 - Set up the Shelly Cloud app and updated the Shelly 1pm, but the "Advanced Developer Settings" tab never appeared so I couldn't set up MQTT
-- Started on the Data Scientist with Python track from DataCamp
+- Started on the Data Scientist with Python track from DataCamp (did the first couple chapters)
+
+#### June 16
+
+- Completed the next two chapters from the Data Scientist with Python track
+- Got the Google Pinging Project properly displaying with Grafana
+- Found a problem with the string formatting when increasing the number of pings in a single run and fixed said problem by having the string offset be determined by the end rather than the beginning
 
 ## About Me
 
