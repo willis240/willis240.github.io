@@ -173,6 +173,10 @@
 - Found a problem with the string formatting when increasing the number of pings in a single run and fixed said problem by having the string offset be determined by the end rather than the beginning
 - Continued working on the Data Scientist with Python track
 
+#### June 17
+
+- Continued on the Data Scientist with Python track, now 3/5 of the way throught the intermediate course
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
