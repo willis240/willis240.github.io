@@ -176,6 +176,7 @@
 #### June 17
 
 - Continued on the Data Scientist with Python track, now 3/5 of the way throught the intermediate course
+- Went to the lab and got the in-person lab training from Jeremy
 
 ## About Me
 
