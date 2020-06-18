@@ -178,6 +178,10 @@
 - Continued on the Data Scientist with Python track, now 3/5 of the way throught the intermediate course
 - Went to the lab and got the in-person lab training from Jeremy
 
+#### June 18
+
+- Messed around with Node-RED by going through some [tutorials from nodered.org](https://nodered.org/docs/tutorials/second-flow)
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
