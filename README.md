@@ -181,6 +181,7 @@
 #### June 18
 
 - Messed around with Node-RED by going through some [tutorials from nodered.org](https://nodered.org/docs/tutorials/second-flow)
+- Read the papers on Soldering Safety and Electrical Safety Awareness, completing my lab training
 
 ## About Me
 
