@@ -188,6 +188,7 @@
 #### June 19
 
 - Read the documentation on the Solar Test Site maintenance
+- Continued working on the Manipulating Data with Pandas course
 
 ## About Me
 
