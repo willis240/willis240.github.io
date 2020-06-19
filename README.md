@@ -183,6 +183,7 @@
 - Messed around with Node-RED by going through some [tutorials from nodered.org](https://nodered.org/docs/tutorials/second-flow)
 - Read the papers on Soldering Safety and Electrical Safety Awareness, completing my lab training
 - Finished the intermediate course from the Data Scientist with Python track
+- Started the Manipulating Data with Pandas course
 
 ## About Me
 
