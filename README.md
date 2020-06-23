@@ -196,6 +196,11 @@
 
 - Continued working on the Manipulating Data with Pandas course
 - Successfully got Shelly 1pm's MQTT enabled and accessed its information from mosquitto.org
+- Went out to the solar test site and learned about the maintenance routine
+
+#### June 23
+
+- Worked on making the presentation for my Google Pinging Project
 
 ## About Me
 
