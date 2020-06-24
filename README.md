@@ -208,6 +208,7 @@
 #### June 24
 
 - Wrote a cheat sheet for the Solar Test Site Maintenance
+- Finished the slides on the Google Pinging Project
 
 ## About Me
 
