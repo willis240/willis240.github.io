@@ -203,6 +203,7 @@
 - Worked on making the presentation for my Google Pinging Project
 - Got Google Pinging Project to send data to TIG Playground (a remote data location)
 - Worked a little more on the Manipulating Data with Pandas course
+- Read this article about the sneaky details of [NaN](https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b)
 
 ## About Me
 
