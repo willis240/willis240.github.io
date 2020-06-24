@@ -205,6 +205,10 @@
 - Worked a little more on the Manipulating Data with Pandas course
 - Read this article about the sneaky details of [NaN](https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b)
 
+#### June 24
+
+- Wrote a cheat sheet for the Solar Test Site Maintenance
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
