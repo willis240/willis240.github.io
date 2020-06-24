@@ -202,6 +202,7 @@
 
 - Worked on making the presentation for my Google Pinging Project
 - Got Google Pinging Project to send data to TIG Playground (a remote data location)
+- Worked a little more on the Manipulating Data with Pandas course
 
 ## About Me
 
