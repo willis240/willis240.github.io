@@ -209,6 +209,8 @@
 
 - Wrote a cheat sheet for the Solar Test Site Maintenance
 - Finished the slides on the Google Pinging Project
+- Gave Rough Draft Presentation of Google Pinging Project
+- Brainstormed ideas with Matt and Arsh about how to monitor the devices and network
 
 ## About Me
 
