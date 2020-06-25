@@ -216,6 +216,7 @@
 
 - Created a diagram of the Solar Test Site
 - Researched what makes a healthy network
+- Created a list of materials we have and a list of materials we need for the Solar Test Site Maintenance
 
 ## About Me
 
