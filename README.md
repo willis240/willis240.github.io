@@ -212,6 +212,11 @@
 - Gave Rough Draft Presentation of Google Pinging Project
 - Brainstormed ideas with Matt and Arsh about how to monitor the devices and network
 
+#### June 25
+
+- Created a diagram of the Solar Test Site
+- Researched what makes a healthy network
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
