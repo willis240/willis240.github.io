@@ -223,6 +223,7 @@
 - Made a program which uses Pythonping to ping a specified website and provides min, max, avg time values to the tig-playground
 - Altered the Google Pinging slides to reflect the switch to using pythonping
 - Researched good ways to monitor a network
+- Altered the Google Pinging jupyter notebook to reflect the switch to using pythonping and the tig-playground
 
 ## About Me
 
