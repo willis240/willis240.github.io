@@ -218,6 +218,10 @@
 - Researched what makes a healthy network
 - Created a list of materials we have and a list of materials we need for the Solar Test Site Maintenance
 
+#### June 26
+
+- Made a program which uses Pythonping to ping a specified website and provides min, max, avg time values to the tig-playground
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
