@@ -224,6 +224,7 @@
 - Altered the Google Pinging slides to reflect the switch to using pythonping
 - Researched good ways to monitor a network
 - Altered the Google Pinging jupyter notebook to reflect the switch to using pythonping and the tig-playground
+- Added diagram of the AWS Host and Sandia Pi to the Solar Test Site Diagram
 
 ## About Me
 
