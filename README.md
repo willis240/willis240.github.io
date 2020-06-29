@@ -226,6 +226,12 @@
 - Altered the Google Pinging jupyter notebook to reflect the switch to using pythonping and the tig-playground
 - Added diagram of the AWS Host and Sandia Pi to the Solar Test Site Diagram
 
+### Week 7
+
+#### June 29
+
+- Increased the UDP/IP buffer limit to 8838608 bytes for using the socket listener input plugin for Telegraf
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
