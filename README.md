@@ -232,6 +232,7 @@
 
 - Increased the UDP/IP buffer limit to 8838608 bytes for using the socket listener input plugin for Telegraf
 - Updated the Test Site Maintenance cheat sheet to have notes on when to take photos
+- Read [Dayne's gist](https://gist.github.com/dayne/5653f864a3de06f238648cb087597512) on autossh
 
 ## About Me
 
