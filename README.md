@@ -231,6 +231,7 @@
 #### June 29
 
 - Increased the UDP/IP buffer limit to 8838608 bytes for using the socket listener input plugin for Telegraf
+- Updated the Test Site Maintenance cheat sheet to have notes on when to take photos
 
 ## About Me
 
