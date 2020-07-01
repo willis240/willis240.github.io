@@ -246,6 +246,7 @@
 
 - Uploaded the photos of the test site to the Maintenance Photos folder
 - Followed a [guide on setting up RSA keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) for SSH up to the point where I need to access the server
+- Updated Dayne's Solar Test Site debug doc with information about my first weekly maintenance
 
 ## About Me
 
