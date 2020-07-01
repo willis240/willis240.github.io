@@ -240,6 +240,12 @@
 - Moved albedometer with Dayne
 - Put lab training sheet in the lab binder
 - Performed first weekly maintenance at the test site
+- Submitted first weekly maintenance data via the google form
+
+#### July 1
+
+- Uploaded the photos of the test site to the Maintenance Photos folder
+- Followed a [guide on setting up RSA keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) for SSH up to the point where I need to access the server
 
 ## About Me
 
