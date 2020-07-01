@@ -235,6 +235,12 @@
 - Read [Dayne's gist](https://gist.github.com/dayne/5653f864a3de06f238648cb087597512) on autossh
 - Installed autossh and read [Ubuntu's manpage on autossh](http://manpages.ubuntu.com/manpages/trusty/man1/autossh.1.html)
 
+#### June 30
+
+- Moved albedometer with Dayne
+- Put lab training sheet in the lab binder
+- Performed first weekly maintenance at the test site
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
