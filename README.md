@@ -255,6 +255,7 @@
 
 - Worked on testing_nmap program in Ubuntu VM but ran into issue where 'tcp' didn't appear in all_protocols()'s output
 - Worked on testing_nmap program in Windows 10 but ran into issue where 'nmap' has no attribute 'PortScanner'
+- Got a version of the program running in Ubuntu VM that claims ports 76 through 80 are all closed (this is likely correct, but I'm not sure yet)
 
 ## About Me
 
