@@ -249,6 +249,13 @@
 - Updated Dayne's Solar Test Site debug doc with information about my first weekly maintenance
 - Researched ways to monitor if a port is functioning properly
 
+### Week 8
+
+#### July 6
+
+- Worked on testing_nmap program in Ubuntu VM but ran into issue where 'tcp' didn't appear in all_protocols()'s output
+- Worked on testing_nmap program in Windows 10 but ran into issue where 'nmap' has no attribute 'PortScanner'
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
