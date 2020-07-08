@@ -262,6 +262,7 @@
 - Performed the weekly maintenance at the solar test site
 - Submitted the maintenance data via the google form
 - Uploaded the pictures to the Maintenance Photos folder
+- Looked for alternate ways to tell which ports are open and which are closed in order to verify that my program works
 
 ## About Me
 
