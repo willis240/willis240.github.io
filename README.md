@@ -267,6 +267,7 @@
 #### July 8
 
 - Verified that the program correctly determined which ports are open or closed
+- Added labels to the Pinging Times dashboard at the TIG-Playground
 
 ## About Me
 
