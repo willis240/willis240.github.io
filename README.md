@@ -264,6 +264,10 @@
 - Uploaded the pictures to the Maintenance Photos folder
 - Looked for alternate ways to tell which ports are open and which are closed in order to verify that my program works
 
+#### July 8
+
+- Verified that the program correctly determined which ports are open or closed
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
