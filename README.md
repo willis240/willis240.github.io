@@ -257,6 +257,12 @@
 - Worked on testing_nmap program in Windows 10 but ran into issue where 'nmap' has no attribute 'PortScanner'
 - Got a version of the program running in Ubuntu VM that claims ports 76 through 80 are all closed (this is likely correct, but I'm not sure yet)
 
+#### July 7
+
+- Performed the weekly maintenance at the solar test site
+- Submitted the maintenance data via the google form
+- Uploaded the pictures to the Maintenance Photos folder
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
