@@ -274,6 +274,7 @@
 #### July 9
 
 - Recreated Dayne's "Simple Site Overview" diagram using draw.io
+- Figured out how to check that a ping is successful
 
 ## About Me
 
