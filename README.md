@@ -269,6 +269,7 @@
 - Verified that the program correctly determined which ports are open or closed
 - Added labels to the Pinging Times dashboard at the TIG-Playground
 - Recreated Dayne's "Simple Diagram of Solar PV Test Site" diagram using draw.io
+- Created the "Testing nmap" dashboard at the TIG-Playground which successfully receives binary data about the chosen ports (1 means the port is open, 0 means the port is closed)
 
 ## About Me
 
