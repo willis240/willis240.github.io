@@ -271,6 +271,10 @@
 - Recreated Dayne's "Simple Diagram of Solar PV Test Site" diagram using draw.io
 - Created the "Testing nmap" dashboard at the TIG-Playground which successfully receives binary data about the chosen ports (1 means the port is open, 0 means the port is closed)
 
+#### July 9
+
+- Recreated Dayne's "Simple Site Overview" diagram using draw.io
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
