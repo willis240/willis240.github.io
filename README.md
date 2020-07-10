@@ -249,6 +249,14 @@
 - Updated Dayne's Solar Test Site debug doc with information about my first weekly maintenance
 - Researched ways to monitor if a port is functioning properly
 
+#### July 2
+
+- INDEPENDENCE DAY WEEKEND
+
+#### July 3
+
+- INDEPENDENCE DAY WEEKEND
+
 ### Week 8
 
 #### July 6
