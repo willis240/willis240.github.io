@@ -278,6 +278,10 @@
 - Rescaled the Network Overview Diagram to be about the same size as the other diagrams
 - Fixed the "Testing nmap" dashboard by deleting the old one and creating a new one within the William folder at the TIG-Playground
 
+#### July 10
+
+- Got ping.py to only add data to the dashboard when the ping attempt is considered a success
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
