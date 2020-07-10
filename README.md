@@ -276,6 +276,7 @@
 - Recreated Dayne's "Simple Site Overview" diagram using draw.io
 - Figured out how to check that a ping is successful
 - Rescaled the Network Overview Diagram to be about the same size as the other diagrams
+- Fixed the "Testing nmap" dashboard by deleting the old one and creating a new one within the William folder at the TIG-Playground
 
 ## About Me
 
