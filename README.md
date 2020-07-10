@@ -290,6 +290,7 @@
 
 - Got ping.py to only add data to the dashboard when the ping attempt is considered a success
 - Modified the Monitoring Presentation slides about the pinging program and added slides for my testing nmap program
+- Read through a [Wikipedia article on port scanning](https://en.wikipedia.org/wiki/Port_scanner)
 
 ## About Me
 
