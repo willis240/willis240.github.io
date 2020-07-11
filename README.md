@@ -291,6 +291,8 @@
 - Got ping.py to only add data to the dashboard when the ping attempt is considered a success
 - Modified the Monitoring Presentation slides about the pinging program and added slides for my testing nmap program
 - Read through a [Wikipedia article on port scanning](https://en.wikipedia.org/wiki/Port_scanner)
+- Prepared for and gave presentation on my ping script and my nmap script
+- Changed the ping.py's error response to be submitting a ping time of -1ms to Grafana
 
 ## About Me
 
