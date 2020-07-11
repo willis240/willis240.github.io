@@ -293,6 +293,7 @@
 - Read through a [Wikipedia article on port scanning](https://en.wikipedia.org/wiki/Port_scanner)
 - Prepared for and gave presentation on my ping script and my nmap script
 - Changed the ping.py's error response to be submitting a ping time of -1ms to Grafana
+- Looked into modulizing the nmap and ping scripts to combine them into one project... still a work in progress
 
 ## About Me
 
