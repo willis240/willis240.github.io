@@ -295,6 +295,12 @@
 - Changed the ping.py's error response to be submitting a ping time of -1ms to Grafana
 - Looked into modulizing the nmap and ping scripts to combine them into one project... still a work in progress
 
+### Week 9
+
+#### July 13
+
+- Edited the ping.py code so that it uses the MySeriesHelper class instead of manual json injection
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
