@@ -302,6 +302,7 @@
 - Edited the ping.py code so that it uses the MySeriesHelper class instead of manual json injection
 - Edited the nmap.py code so that it uses the MySeriesHelper class, but it claims that "nmap has no attribute PortScanner" (code doesn't work yet)
 - Added timestamps as data that is used by nmap.py
+- Added timestamps as data that is used by ping.py, but they aren't in the correct working format yet
 
 ## About Me
 
