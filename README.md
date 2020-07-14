@@ -304,6 +304,12 @@
 - Added timestamps as data that is used by nmap.py
 - Added timestamps as data that is used by ping.py, but they aren't in the correct working format yet
 
+#### July 14
+
+- Went to the Solar Test Site and performed the weekly maintenance, which now includes cleaning the solar panels if they need it
+- Filled out the google form with information on how the weekly maintenance went
+- Figured out the problem with nmap.py: Naming it nmap.py caused it to conflict with the module python-nmap. Changed its name to port_check.py and that fixed the problem.
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
