@@ -309,6 +309,7 @@
 - Went to the Solar Test Site and performed the weekly maintenance, which now includes cleaning the solar panels if they need it
 - Filled out the google form with information on how the weekly maintenance went
 - Figured out the problem with nmap.py: Naming it nmap.py caused it to conflict with the module python-nmap. Changed its name to port_check.py and that fixed the problem.
+- Changed settings in the "Testing nmap" dashboard in Grafana; It now successfully receives the data from port_check.py
 
 ## About Me
 
