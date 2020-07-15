@@ -315,6 +315,7 @@
 
 - Fixed the timestamp issue that ping.py had (w/ Arsh's help)
 - Changed 'ping.py' to 'ping_test.py' and 'MySeries' to 'pings'
+- Edited 'ping_test.py' and 'port_check.py' so they now take info from a yaml file for their target rather than having the target be hardcoded
 
 ## About Me
 
