@@ -311,6 +311,11 @@
 - Figured out the problem with nmap.py: Naming it nmap.py caused it to conflict with the module python-nmap. Changed its name to port_check.py and that fixed the problem.
 - Changed settings in the "Testing nmap" dashboard in Grafana; It now successfully receives the data from port_check.py
 
+#### July 15
+
+- Fixed the timestamp issue that ping.py had (w/ Arsh's help)
+- Changed 'ping.py' to 'ping_test.py' and 'MySeries' to 'pings'
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
