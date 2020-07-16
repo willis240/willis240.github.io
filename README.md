@@ -317,6 +317,7 @@
 - Changed 'ping.py' to 'ping_test.py' and 'MySeries' to 'pings'
 - Edited 'ping_test.py' and 'port_check.py' so they now take info from a yaml file for their target rather than having the target be hardcoded
 - Fixed the timestamp issue that port_check.py had (changed the field name from 'Time' to 'time')
+- Edited the files so that 'monitor.py' uses 'ping_test.py' and 'port_check.py' as modules (so it's all one united project). However, the time between pings is currently too long.
 
 ## About Me
 
