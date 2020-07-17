@@ -322,6 +322,9 @@
 #### July 16
 
 - Edited 'port_check.py' and 'target.yaml' so that they no longer take a range of ports, but a list of ports instead. They are also now more modular, making adding more ports and targets easier
+- Added an example yaml file named 'target.yaml.example' to the git repo
+- Edited 'ping_test.py' to be more modular like 'port_check.py'
+- Changed 'target.yaml' such that 'ping_test.py' and 'port_check.py' share the same targets
 
 ## About Me
 
