@@ -319,6 +319,10 @@
 - Fixed the timestamp issue that port_check.py had (changed the field name from 'Time' to 'time')
 - Edited the files so that 'monitor.py' uses 'ping_test.py' and 'port_check.py' as modules (so it's all one united project). However, the time between pings is currently too long.
 
+#### July 16
+
+- Edited 'port_check.py' and 'target.yaml' so that they no longer take a range of ports, but a list of ports instead. They are also now more modular, making adding more ports and targets easier
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
