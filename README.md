@@ -326,6 +326,10 @@
 - Edited 'ping_test.py' to be more modular like 'port_check.py'
 - Changed 'target.yaml' such that 'ping_test.py' and 'port_check.py' share the same targets
 
+#### July 17
+
+- Overhauled the Pinging Google jupyter notebook so that it would be up-to-date with the latest version of the pinging file, though not with the overall monitoring project
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
