@@ -329,6 +329,8 @@
 #### July 17
 
 - Overhauled the Pinging Google jupyter notebook so that it would be up-to-date with the latest version of the pinging file, though not with the overall monitoring project
+- Overhauled 'target.yaml' so that it's now more user-friendly and less redundant
+- Made changes to 'ping_test.py' and 'port_check.py' to match the changes made to 'target.yaml'
 
 ## About Me
 
