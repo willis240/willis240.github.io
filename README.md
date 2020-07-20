@@ -337,6 +337,7 @@
 #### July 20
 
 - Added monthly maintenance details to the cheat sheet
+- Changed my grafana dashboards' times to be in UTC
 
 ## About Me
 
