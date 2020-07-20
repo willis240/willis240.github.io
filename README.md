@@ -332,6 +332,12 @@
 - Overhauled 'target.yaml' so that it's now more user-friendly and less redundant
 - Made changes to 'ping_test.py' and 'port_check.py' to match the changes made to 'target.yaml'
 
+### Week 10
+
+#### July 20
+
+- Added monthly maintenance details to the cheat sheet
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
