@@ -338,6 +338,7 @@
 
 - Added monthly maintenance details to the cheat sheet
 - Changed my grafana dashboards' times to be in UTC
+- Read this [Grafana article on timeseries](https://grafana.com/docs/grafana/latest/getting-started/timeseries/) while trying to find out how to display timestamps in my grafana dashboards
 
 ## About Me
 
