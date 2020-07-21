@@ -341,6 +341,7 @@
 - Read this [Grafana article on timeseries](https://grafana.com/docs/grafana/latest/getting-started/timeseries/) while trying to find out how to display timestamps in my grafana dashboards
 - Read this article on [InfluxDB schema and data layout](https://docs.influxdata.com/influxdb/v1.8/concepts/schema_and_data_layout/)
 - Researched ways to optimize nmap performance, including reading this [webpage about scan time reduction techniques](https://nmap.org/book/reduce-scantime.html)
+- Read a list of [falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca) that Arsh posted a link to and which makes me question the sanity of those who actually wrote the date time library
 
 ## About Me
 
