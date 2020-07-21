@@ -343,6 +343,12 @@
 - Researched ways to optimize nmap performance, including reading this [webpage about scan time reduction techniques](https://nmap.org/book/reduce-scantime.html)
 - Read a list of [falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca) that Arsh posted a link to and which makes me question the sanity of those who actually wrote the date time library
 
+#### July 21
+
+- Performed the weekly maintenance at the solar test site and took the monthly photos as well
+- Filled out the google form for the maintenance and copied my photos to the Maintenance Photos folder
+- Found [this forum](https://stackoverflow.com/questions/19196105/how-to-check-if-a-network-port-is-open-on-linux) on using the socket module to tell whether a port is open or closed
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
