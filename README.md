@@ -340,6 +340,7 @@
 - Changed my grafana dashboards' times to be in UTC
 - Read this [Grafana article on timeseries](https://grafana.com/docs/grafana/latest/getting-started/timeseries/) while trying to find out how to display timestamps in my grafana dashboards
 - Read this article on [InfluxDB schema and data layout](https://docs.influxdata.com/influxdb/v1.8/concepts/schema_and_data_layout/)
+- Researched ways to optimize nmap performance, including reading this [webpage about scan time reduction techniques](https://nmap.org/book/reduce-scantime.html)
 
 ## About Me
 
