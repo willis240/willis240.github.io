@@ -353,6 +353,7 @@
 #### July 22
 
 - Worked on slides detailing what I've learned from my internship
+- Tidied up the code by getting rid of redundant code and refactoring some code into helper functions
 
 ## About Me
 
