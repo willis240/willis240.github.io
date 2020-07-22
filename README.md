@@ -348,6 +348,7 @@
 - Performed the weekly maintenance at the solar test site and took the monthly photos as well
 - Filled out the google form for the maintenance and copied my photos to the Maintenance Photos folder
 - Found [this forum](https://stackoverflow.com/questions/19196105/how-to-check-if-a-network-port-is-open-on-linux) on using the socket module to tell whether a port is open or closed
+- Edited 'port_check.py' so that it now uses the socket python module instead of nmap; the program now runs much faster
 
 ## About Me
 
