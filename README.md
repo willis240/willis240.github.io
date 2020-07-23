@@ -357,6 +357,10 @@
 - Looked into the socket library details to see if it would work correctly with a remote target
 - Created the port_check jupyter notebook by essentially copying the code from the py file
 
+#### July 23
+
+- Created a jupyter notebook named Monitor, which is the entire monitoring program except for the yaml file. Still need to add a yaml file somehow.
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
