@@ -355,6 +355,7 @@
 - Worked on slides detailing what I've learned from my internship
 - Tidied up the code by getting rid of redundant code and refactoring some code into helper functions
 - Looked into the socket library details to see if it would work correctly with a remote target
+- Created the port_check jupyter notebook by essentially copying the code from the py file
 
 ## About Me
 
