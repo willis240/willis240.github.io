@@ -363,6 +363,10 @@
 - Edited the monitoring project files so that the databaseClient info is now in the yaml file rather than hardcoded in
 - Edited the jupyter notebook, adding in text to explain most of what the code does (almost done, but not done)
 
+#### July 24
+
+- uploaded the target.yaml file to the research workspace for the jupyter notebook
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
