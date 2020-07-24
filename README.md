@@ -365,7 +365,8 @@
 
 #### July 24
 
-- uploaded the target.yaml file to the research workspace for the jupyter notebook
+- Uploaded the target.yaml file to the research workspace for the jupyter notebook
+- Finished up the text explanations for the jupyter notebook
 
 ## About Me
 
