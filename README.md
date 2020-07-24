@@ -367,6 +367,7 @@
 
 - Uploaded the target.yaml file to the research workspace for the jupyter notebook
 - Finished up the text explanations for the jupyter notebook
+- Added slide about jupyter notebooks to the slides about what I've learned
 
 ## About Me
 
