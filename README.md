@@ -361,6 +361,7 @@
 
 - Created a jupyter notebook named Monitor, which is the entire monitoring program except for the yaml file. Still need to add a yaml file somehow.
 - Edited the monitoring project files so that the databaseClient info is now in the yaml file rather than hardcoded in
+- Edited the jupyter notebook, adding in text to explain most of what the code does (almost done, but not done)
 
 ## About Me
 
