@@ -375,7 +375,7 @@
 
 #### July 27
 
-- Checked out the stackoverflow discussion and code that Arsh linked me to. The Jupyter Notebook now works for the Get_Ping_Data program, but Get_Port_Data's data is not getting to grafana yet
+- Checked out the stackoverflow discussion and code that Arsh linked me to. The Jupyter Notebook now works for the Get_Ping_Data program, but Get_Port_Data's data claims port 3000 is closed, which I am not sure is true
 
 ## About Me
 
