@@ -371,6 +371,12 @@
 - Added slide about network monitoring tools to the slides about what I've learned
 - Edited the jupyter notebook so that its database info, like the py files', is taken from the yaml file
 
+### Week 11
+
+#### July 27
+
+- Checked out the stackoverflow discussion and code that Arsh linked me to. The Jupyter Notebook now works for the Get_Ping_Data program, but Get_Port_Data's data is not getting to grafana yet
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
