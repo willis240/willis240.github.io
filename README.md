@@ -381,6 +381,11 @@
 - Got the monitoring project up and running on the raspberry pi, now targeting the tig-playground
 - Created the outline for the README that will explain how to get the project up and running on a new device
 
+#### July 28
+
+- Performed the weekly maintenance at the solar test site
+- Filled out the google form for the maintenance and copied my photos to the Maintenance Photos folder
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
