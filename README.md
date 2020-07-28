@@ -379,6 +379,7 @@
 - Talked with Dayne, Matt, and Arsh about what else I need to do for my monitoring project
 - Successfully got VSCode setup on the raspberry pi
 - Got the monitoring project up and running on the raspberry pi, now targeting the tig-playground
+- Created the outline for the README that will explain how to get the project up and running on a new device
 
 ## About Me
 
