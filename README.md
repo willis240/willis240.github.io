@@ -385,6 +385,9 @@
 
 - Performed the weekly maintenance at the solar test site
 - Filled out the google form for the maintenance and copied my photos to the Maintenance Photos folder
+- Fixed bug where port_check.py attempts to use a closed socket
+- Made database_client and yaml wrappers in monitor.py
+- Added try/except so the program doesn't end as soon as it loses network connection
 
 ## About Me
 
