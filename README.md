@@ -391,7 +391,8 @@
 
 #### July 29
 
-- Add logging such that when port_check does not detect an open port, socket.connect_ex's return value is logged along with the port number and the time (time is currently my computer's time, needs changed to UTC)
+- Add logging such that when port_check does not detect an open port, socket.connect_ex's return value is logged along with the port number and the time
+- Changed the logging timestamps from my computer's time to UTC
 
 ## About Me
 
