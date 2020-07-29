@@ -393,6 +393,7 @@
 
 - Add logging such that when port_check does not detect an open port, socket.connect_ex's return value is logged along with the port number and the time
 - Changed the logging timestamps from my computer's time to UTC
+- Made requirements.txt to make getting setup for running my monitoring program easier
 
 ## About Me
 
