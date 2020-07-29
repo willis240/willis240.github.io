@@ -389,6 +389,10 @@
 - Made database_client and yaml wrappers in monitor.py
 - Added try/except so the program doesn't end as soon as it loses network connection
 
+#### July 29
+
+- Add logging such that when port_check does not detect an open port, socket.connect_ex's return value is logged along with the port number and the time (time is currently my computer's time, needs changed to UTC)
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
