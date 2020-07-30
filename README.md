@@ -396,6 +396,10 @@
 - Changed the logging timestamps from my computer's time to UTC
 - Made requirements.txt to make getting setup for running my monitoring program easier
 
+#### July 30
+
+- Added a panel to the pinging dashboard for testing new versions of my monitoring project without interrupting the pi's data stream
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
