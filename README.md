@@ -399,6 +399,7 @@
 #### July 30
 
 - Added a panel to the pinging dashboard for testing new versions of my monitoring project without interrupting the pi's data stream
+- Tried using info from this [stackoverflow article](https://stackoverflow.com/questions/12248132/how-to-change-tcp-keepalive-timer-using-python-script/14855726#14855726) to find a way to enforce a timeout on socket. Still in progress.
 
 ## About Me
 
