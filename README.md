@@ -401,6 +401,10 @@
 - Added a panel to the pinging dashboard for testing new versions of my monitoring project without interrupting the pi's data stream
 - Tried using info from this [stackoverflow article](https://stackoverflow.com/questions/12248132/how-to-change-tcp-keepalive-timer-using-python-script/14855726#14855726) to find a way to enforce a timeout on socket. Still in progress.
 
+#### July 31
+
+- Changed the display of my troubleshooting graphs from using lines to using points; it is now visually obvious whenever there is a disconnect in the stream of data
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
