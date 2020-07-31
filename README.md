@@ -404,6 +404,7 @@
 #### July 31
 
 - Changed the display of my troubleshooting graphs from using lines to using points; it is now visually obvious whenever there is a disconnect in the stream of data
+- Added a try/except for the Get_Port_Data function so it doesn't crash the program when it loses network connection at a specific point in time
 
 ## About Me
 
