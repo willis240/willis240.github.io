@@ -415,6 +415,7 @@
 #### August 3
 
 - Added a hostname tag to the port checking code and dashboard
+- Moved the exception handling and logging to the ping_test and port_check files, exponential backoff now doesn't work
 
 ## About Me
 
