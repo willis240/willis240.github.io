@@ -416,6 +416,7 @@
 
 - Added a hostname tag to the port checking code and dashboard
 - Moved the exception handling and logging to the ping_test and port_check files, exponential backoff now doesn't work
+- Created a branch on the github repo for working on the post-multithreading stuff
 - Got logging and exponential backoff working again, but only problems from ping_test get logged
 - Added backoff to requirements.txt
 
