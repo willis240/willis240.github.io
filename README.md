@@ -426,6 +426,10 @@
 - Filled out the google form for the maintenance and copied my photos to the Maintenance Photos folder
 - Created logger objects (one for ping, one for port). They still don't log properly, but progress has been made (at least mentally).
 
+#### August 5
+
+- Got the logger objects to log to their correct files, but only when they are called to do so in monitor.py
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
