@@ -429,6 +429,7 @@
 #### August 5
 
 - Got the logger objects to log to their correct files, but only when they are called to do so in monitor.py
+- Read an article on how to [turn a program into a Linux service](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6) (which will make auto-restarting after a power outage easy)
 
 ## About Me
 
