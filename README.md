@@ -431,6 +431,12 @@
 - Got the logger objects to log to their correct files, but only when they are called to do so in monitor.py
 - Read an article on how to [turn a program into a Linux service](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6) (which will make auto-restarting after a power outage easy)
 
+#### August 6
+
+* Worked a lot more on trying to get my logging to work properly. Basically, I found out:
+ * What I put in the excepts (from the try/excepts) only gets done one time, right after the exponential backoff
+ * Logger objects don't keep their data from file to file
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
