@@ -437,6 +437,10 @@
   * What I put in the excepts (from the try/excepts) only gets done one time, right after the exponential backoff
   * Logger objects don't keep their data from file to file
   * The logging.basicconfig settings effect the exponential backoff, so I need to find some way to change the target location of the exponential backoff in each file it appears in to the corresponding log file
+  
+#### August 7
+
+- Went to the solar test site and got Chris reconnected to the MET Station's Campbell Datalogger
 
 ## About Me
 
