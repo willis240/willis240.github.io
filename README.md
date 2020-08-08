@@ -441,6 +441,8 @@
 #### August 7
 
 - Went to the solar test site and got Chris reconnected to the MET Station's Campbell Datalogger
+- Got logging to finally send the correct information to the correct log files! However, there is an error where going through the while loop causes each new batch of messages to all be duplicated
+- Worked with Arsh trying to fix the duplication bug, but we weren't able to figure it out yet
 
 ## About Me
 
