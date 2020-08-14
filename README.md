@@ -444,6 +444,22 @@
 - Got logging to finally send the correct information to the correct log files! However, there is an error where going through the while loop causes each new batch of messages to all be duplicated
 - Worked with Arsh trying to fix the duplication bug, but we weren't able to figure it out yet
 
+## Fall 2020
+
+### Week 1
+
+#### August 11
+
+- Had meeting with Dayne and Matt about my future with ACEP
+- Went to Solar Test Site and performed weekly maintenance
+- Came home and logged my details about the weekly maintenance
+
+#### August 13
+
+- Fixed the duplication bug in my monitoring program
+- Tidied up a lot of my code by erasing unnecessary comments and creating the Get_Ping_Logger and Get_Port_Logger functions
+- Incorporated TimedRotatingFileHandlers for taking care of old logs
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
