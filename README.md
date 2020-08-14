@@ -460,6 +460,12 @@
 - Tidied up a lot of my code by erasing unnecessary comments and creating the Get_Ping_Logger and Get_Port_Logger functions
 - Incorporated TimedRotatingFileHandlers for taking care of old logs
 
+#### August 14
+
+- Added a BackupCount value of 14 to the TimedRotatingFileHandlers, making it so they store up to two weeks' worth of error logs
+- Made a monitor service in Ubuntu but it always fails, saying "code=exited, status=2"
+- Effectively, my program is done at this point. All I need is to figure out the proper way to get it turned into a service.
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
