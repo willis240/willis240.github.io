@@ -466,6 +466,28 @@
 - Made a monitor service in Ubuntu but it always fails, saying "code=exited, status=2"
 - Effectively, my program is done at this point. All I need is to figure out the proper way to get it turned into a service.
 
+### Week 2
+
+#### August 18
+
+- Performed the weekly maintenance at the Solar Test Site
+- Came home and logged the details of how the maintenance went
+
+#### August 20
+
+- Created a service for running my maintenance program, but it doesn't work yet
+
+### Week 3
+
+#### August 24
+
+- Worked with Arsh and quickly fixed the problems plaguing my service; it's now fully functional!
+
+#### August 25
+
+- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Came home and logged the details about the maintenance
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
