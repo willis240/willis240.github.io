@@ -488,6 +488,12 @@
 - Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
 - Came home and logged the details about the maintenance
 
+#### August 27
+
+- Checked to make sure monitor.service is still working properly (it is!)
+- Pushed monitor.service's changes to github
+- Added steps for making a service to the README
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
