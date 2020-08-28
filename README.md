@@ -493,6 +493,7 @@
 - Checked to make sure monitor.service is still working properly (it is!)
 - Pushed monitor.service's changes to github
 - Added steps for making a service to the README
+- Edited the dashboard on Grafana to make it better for looking at (still needs work)
 
 ## About Me
 
