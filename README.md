@@ -495,6 +495,37 @@
 - Added steps for making a service to the README
 - Edited the dashboard on Grafana to make it better for looking at (still needs work)
 
+### Week 4
+
+#### September 1
+
+- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Came home and logged the details about the maintenance
+
+### Week 5
+
+#### September 8
+
+- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Came home and logged the details about the maintenance
+
+### Week 6
+
+#### September 15
+
+- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Came home and logged the details about the maintenance
+
+#### September 16
+
+- Looked into how to setup an alert
+- Brainstormed when alerts should go off and when they shouldn't
+
+#### September 17
+
+- Looked deeper into how to make\edit an alert
+- Set up an alert for port 8086 on my monitoring software as a test
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
