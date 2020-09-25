@@ -499,21 +499,21 @@
 
 #### September 1
 
-- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Went to the Solar Test Site and performed the weekly maintenance 
 - Came home and logged the details about the maintenance
 
 ### Week 5
 
 #### September 8
 
-- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Went to the Solar Test Site and performed the weekly maintenance
 - Came home and logged the details about the maintenance
 
 ### Week 6
 
 #### September 15
 
-- Went to the Solar Test Site and performed the weekly maintenance as well as the monthly tasks
+- Went to the Solar Test Site and performed the weekly maintenance 
 - Came home and logged the details about the maintenance
 
 #### September 16
@@ -525,6 +525,25 @@
 
 - Looked deeper into how to make\edit an alert
 - Set up an alert for port 8086 on my monitoring software as a test
+
+### Week 7
+
+#### September 22
+
+- Went to the Solar Test Site and performed the weekly maintenance
+- Came home and logged the details about the maintenance
+
+#### September 23
+
+- Looked at the data for the Solar Site alerts and formed a proposal about changing the alerts
+
+#### September 24
+
+- Gave my proposal and received feedback about looking into working with Grafana averages over time
+
+#### September 25
+
+- Title IX Training
 
 ## About Me
 
