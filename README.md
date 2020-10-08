@@ -545,6 +545,24 @@
 
 - Title IX Training
 
+### Week 8
+
+#### September 29
+
+- Went to the Solar Test Site and performed the weekly and monthly maintenance
+- Came home and logged the details about the maintenance
+
+### Week 9
+
+#### October 6
+
+- Went to the Solar Test Site and performed the weekly maintenance
+- Came home and logged the details about the maintenance
+
+#### October 8
+
+- Looked into how to get moving averages in Grafana and came up with a couple of links
+
 ## About Me
 
 Currently, I am a college student working toward a Bachelors Degree in Computer Science. Though I do not have specific plans for what I intend to do after obtaining my degree, I intend to pursue a job in the Computer Science career field to further my skills following graduation.
