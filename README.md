@@ -12,7 +12,7 @@ once you get to know me. Don't worry, I'm funny. I promise.
 * Some experience with Python
 * Some experience with HTML/CSS
 
-### Projects
+### Github Projects
 
 * The aforementioned text-based adventure game (which I am still working on): https://github.com/willis240/Dungeon_Crawler
 * My group's senior capstone project where we created a dashboard which displayed energy data it received from ACEP live (I worked primarily on the display, making my contributions
